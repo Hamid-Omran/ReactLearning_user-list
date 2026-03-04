@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import usersData from "./data/users.json";
 
 function App() {
-  const [users, setUsers] = useState(usersData); // State اولیه از فایل JSON
+  const [users, setUsers] = useState(usersData); // Initial state from JSON fileله
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
