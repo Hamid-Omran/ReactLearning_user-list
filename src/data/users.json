@@ -37,16 +37,5 @@
   {"id":36,"name":"Julia","age":29,"city":"Victoria"},
   {"id":37,"name":"Kathy","age":33,"city":"Saskatoon"},
   {"id":38,"name":"Mason","age":27,"city":"St. John's"},
-  {"id":39,"name":"Uma","age":25,"city":"Quebec City"},
-  {"id":40,"name":"Bobbie","age":22,"city":"Toronto"},
-  {"id":41,"name":"David","age":28,"city":"Calgary"},
-  {"id":42,"name":"Rachel","age":27,"city":"Ottawa"},
-  {"id":43,"name":"Steve","age":26,"city":"Edmonton"},
-  {"id":44,"name":"Alice","age":25,"city":"Montreal"},
-  {"id":45,"name":"Nina","age":28,"city":"Toronto"},
-  {"id":46,"name":"Paula","age":26,"city":"Vancouver"},
-  {"id":47,"name":"Lara","age":34,"city":"Regina"},
-  {"id":48,"name":"Mason","age":27,"city":"St. John's"},
-  {"id":49,"name":"Xander","age":31,"city":"Saskatoon"},
-  {"id":50,"name":"Victor","age":33,"city":"Halifax"}
+  {"id":39,"name":"Uma","age":25,"city":"Quebec City"}
 ]
